@@ -3,9 +3,6 @@ package com.example
 import java.io._
 import java.util.zip.ZipInputStream
 
-/**
-  * Created by aleksander on 17.02.2018.
-  */
 object Zipper {
 
   def main(args: Array[String]) {
