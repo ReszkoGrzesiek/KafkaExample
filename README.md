@@ -1,0 +1,2 @@
+# KafkaExample
+Playground for kafka
